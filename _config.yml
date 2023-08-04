@@ -1,0 +1,9 @@
+# Site settings
+title: Intro to Caffeinated Codes
+author:
+  name: Gloria Yoo
+  email: yooniqueproductions@gmail.com
+description: introduction page to eikoonoyume Github page
+
+# Build settings
+remote_theme: jekyll/cover card
