@@ -1,4 +1,3 @@
-remote_theme: Cover Card
 # Intro
 Hello, I'm Gloria, a budding (recently Google-certified) BI analyst from Korea.
 ## Work
